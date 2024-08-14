@@ -1,0 +1,25 @@
+#include<stdio.h>
+void display(char name[],int id,float sal);
+void main()
+{
+    struct employee
+    {
+        char name[20];
+        int empid;
+        float salary;
+    };
+    // void main()
+    // {
+    struct employee emp;
+    printf("\n enter name of employee");
+    scanf("%s",&emp.name);
+    printf("\n enter the id");
+    scanf("%d",&emp.empid);
+    printf("\n enter the salary");
+    scanf("%f",&emp.salary);
+    display(emp.name,emp.empid,emp.salary);
+}
+void display(char name[],int id,float sal)
+{
+printf("\n name=%s \n id=%d \n salary=%f",name,id,sal);
+}

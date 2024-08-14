@@ -1,0 +1,15 @@
+lxi h, 0008h;
+mvi a,00h;
+mvi b,00h;
+repeat:
+ mov c,m;
+inx h;
+add m;
+jnz carry;
+inr c;
+carry: dcr c;
+jnz repeat;
+sta 000Ah;
+mov a,b;
+sta 000bh;
+hlt;

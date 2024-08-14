@@ -1,0 +1,23 @@
+#include<stdio.h>
+
+    struct employee
+    {
+        char name[20];
+        int empid;
+        float salary;
+    };
+    void main()
+    {
+    struct employee emp;
+    printf("\n enter name of employee");
+    scanf("%s",&emp.name);
+    printf("\n enter the id");
+    scanf("%d",&emp.empid);
+    printf("\n enter the salary");
+    scanf("%f",&emp.salary);
+    display(&emp);
+}
+void display(struct emplpyee *emp)
+{
+printf("\n name=%s \n id=%d \n salary=%f",emp->empid,emp->salary);
+}

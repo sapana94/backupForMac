@@ -1,0 +1,19 @@
+#include<stdio.h>
+struct student
+{
+char name[20];
+int rollno;
+float marks;
+};
+void main()
+{
+struct student s1,s2,s3;
+ printf("enter name of first student :\n");
+ gets(s1.name);
+ printf("\n enter student rollno :");
+scanf("%d", &s1.rollno);
+printf("\n enter student marks :");
+scanf("%f", &s1.marks);
+printf("\n Information of first student:");
+ printf("name =%s, rollno =%d, marks = %f", s1.name, s1.rollno, s1.marks);
+}

@@ -1,0 +1,2 @@
+C:\Users\admin\OneDrive\Desktop\Sisab training\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Sisab training\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.CoreCompileInputs.cache

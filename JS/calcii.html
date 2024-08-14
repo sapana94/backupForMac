@@ -1,0 +1,130 @@
+nonon
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div class="outer">
+      <div class="glass-container">
+        <div class="screen"></div>
+      </div>
+      <div class="keys">
+        <div class="aw">
+          <button class="extra"><i>AC</i></button>
+          <button class="extra">%</button>
+          <button class="extra">Del</button>
+          <button class="extra">Mod</button>
+        </div>
+        <div class="aw">
+          <button class="nuns">1</button>
+          <button class="nuns">2</button>
+          <button class="nuns">3</button>
+          <button class="bottons">+</button>
+        </div>
+        <div class="aw">
+          <button class="nuns">4</button>
+          <button class="nuns">5</button>
+          <button class="nuns">6</button>
+          <button class="bottons">-</button>
+        </div>
+        <div class="aw">
+          <button class="nuns">7</button>
+          <button class="nuns">8</button>
+          <button class="nuns">9</button>
+          <button class="bottons">×</button>
+        </div>
+        <div class="aw">
+          <button class="nuns">0</button>
+          <button class="bottons equals">=</button>
+          <button class="bottons">÷</button>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="index.js"></script>
+</html>
+<style>
+.outer {
+  display: flex;
+  border-radius: 0.5vw;
+  flex-direction: column;
+  position: relative;
+  margin: auto;
+  margin-top: 10vw;
+  width: 26vw;
+  box-shadow: 0px 5px 7px 5px #141414;
+  background: linear-gradient(360deg, #5e5252, #4b4646, #757a75, #889188);
+}
+.keys {
+  border-radius: 0.5vw;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background: linear-gradient(360deg, #181817, #6968686c, #faf8fa);
+}
+.aw {
+  margin-top: 1vw;
+  margin-bottom: 2vw;
+  display: flex;
+  justify-content: space-around;
+  width: 25vw;
+}
+.nuns,
+.bottons {
+  width: 3vw;
+  height: 2vw;
+  background: linear-gradient(360deg, #000000, #fcfafa, #353434);
+  border-radius: 0.3vw;
+  box-shadow: -3px 0px 7px #141414, 3px 0px 7px #141414;
+}
+.equals {
+  background: linear-gradient(30deg, #383737, #cac2c2, #383737);
+  width: 8vw;
+  height: 2vw;
+  box-shadow: 0px 0px 1000px #fcfcfc, 0px 0px 1000px #ffffff;
+}
+
+.extra {
+  padding-top: 0.3vw;
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  width: 3vw;
+  height: 2vw;
+  background: linear-gradient(36deg, #070707, #a09a9a, #070707);
+  color: #160333;
+  border-radius: 0.3vw;
+  box-shadow: 0px 0px 1000px #000000, 0px 0px 1000px #000000;
+}
+.glass-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff33;
+  backdrop-filter: blur(10px);
+  border-radius: 0.5vw;
+  padding: 10px;
+}
+.screen {
+  width: 25vw;
+  height: 6vw;
+  /* background-color: #748356; */
+  background: linear-gradient(
+    180deg,
+    #3c442d,
+    #97aa70,
+    #748356,
+    #97aa70,
+    #748356,
+    #97aa70,
+    #3c442d
+  );
+  border-radius: 0.5vw;
+  box-shadow: -3px 0px 7px #141414, 3px 0px 7px #141414;
+  margin: auto;
+}
+</style>

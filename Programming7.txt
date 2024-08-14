@@ -1,0 +1,28 @@
+#include<stdio.h>
+void display();
+    struct employee{
+        char name[20];
+        int empid;
+        float salary;
+};
+void main()
+{
+    struct employee emp[2];
+    for (int i=0;i<2;i++)
+    {
+    printf("\n enter the name of employee");
+    scanf("%s",&emp[i].name);
+    printf("\n enter the id");
+    scanf("%d",&emp[i].empid);
+    printf("\n enter the salary");
+    scanf("%f",&emp[i].salary);
+    }
+    display(emp);
+    }
+void display(struct employee *e)
+{
+for(int i=0;i<2;i++)
+{
+printf("\n name=%s \n id=%d \n salary=%f",e[i].name,e[i].empid,e[i].salary);
+}
+}

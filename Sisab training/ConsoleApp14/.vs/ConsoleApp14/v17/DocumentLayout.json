@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Sisab training\\ConsoleApp14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3476CB-367A-4106-83B5-89289F64A381}|ConsoleApp14\\ConsoleApp14.csproj|C:\\Users\\admin\\OneDrive\\Desktop\\Sisab training\\ConsoleApp14\\consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3476CB-367A-4106-83B5-89289F64A381}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF04C6AC-12DF-4E3E-B34B-127C04155915}|ProjectB\\ProjectB.csproj|c:\\users\\admin\\onedrive\\desktop\\sisab training\\consoleapp14\\projectb\\teamb||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF04C6AC-12DF-4E3E-B34B-127C04155915}|ProjectB\\ProjectB.csproj|solutionrelative:projectb\\teamb||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4593241E-5DD7-4306-9B06-8DD1D0DA7D0D}|ProjectA\\ProjectA.csproj|c:\\users\\admin\\onedrive\\desktop\\sisab training\\consoleapp14\\projecta\\teama||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4593241E-5DD7-4306-9B06-8DD1D0DA7D0D}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\teama||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "teamb",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Sisab training\\ConsoleApp14\\ProjectB\\teamb",
+              "RelativeDocumentMoniker": "ProjectB\\teamb",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Sisab training\\ConsoleApp14\\ProjectB\\teamb",
+              "RelativeToolTip": "ProjectB\\teamb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-02T07:04:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "teamA",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Sisab training\\ConsoleApp14\\ProjectA\\teamA",
+              "RelativeDocumentMoniker": "ProjectA\\teamA",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Sisab training\\ConsoleApp14\\ProjectA\\teamA",
+              "RelativeToolTip": "ProjectA\\teamA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-01T08:00:24.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Sisab training\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Sisab training\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeToolTip": "ConsoleApp14\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:59:40.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

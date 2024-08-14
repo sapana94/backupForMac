@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<unattend>
+	<settings pass="offlineServicing">
+		<component name="IPBusEnum" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ServiceStartType>4</ServiceStartType>
+		</component>
+		<component name="IPBusEnum" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ServiceStartType>4</ServiceStartType>
+		</component>
+		<component name="Microsoft-Windows-Autochk" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<AutoChkTimeOut>10</AutoChkTimeOut>
+		</component>
+		<component name="Microsoft-Windows-Autochk" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<AutoChkTimeOut>10</AutoChkTimeOut>
+		</component>
+		<component name="Microsoft-Windows-BaseCrashDumpSettings" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<AutoReboot>1</AutoReboot>
+			<CrashDumpEnabled>7</CrashDumpEnabled>
+			<DeviceDumpEnabled>0</DeviceDumpEnabled>
+		</component>
+		<component name="Microsoft-Windows-BaseCrashDumpSettings" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<AutoReboot>1</AutoReboot>
+			<CrashDumpEnabled>7</CrashDumpEnabled>
+			<DeviceDumpEnabled>0</DeviceDumpEnabled>
+		</component>
+		<component name="Microsoft-Windows-BeepSys" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<Start_Beep>3</Start_Beep>
+		</component>
+		<component name="Microsoft-Windows-BeepSys" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<Start_Beep>3</Start_Beep>
+		</component>
+		<component name="Microsoft-Windows-BrowserService" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ServiceStart>4</ServiceStart>
+		</component>
+		<component name="Microsoft-Windows-BrowserService" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ServiceStart>4</ServiceStart>
+		</component>
+		<component name="Microsoft-Windows-COM-Base" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<MachineAccessRestriction>010004808c0000009c000000000000001400000002007800050000000000140007000000010100000000000100000000000014000700000001010000000000050700000000001800070000000102000000000005200000003202000000001800070000000102000000000005200000002f0200000000180003000000010200000000000f02000000010000000102000000000005200000002002000001020000000000052000000020020000</MachineAccessRestriction>
+		</component>
+		<component name="Microsoft-Windows-COM-Base" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<MachineAccessRestriction>010004808c0000009c000000000000001400000002007800050000000000140007000000010100000000000100000000000014000700000001010000000000050700000000001800070000000102000000000005200000003202000000001800070000000102000000000005200000002f0200000000180003000000010200000000000f02000000010000000102000000000005200000002002000001020000000000052000000020020000</MachineAccessRestriction>
+		</component>
+		<component name="Microsoft-Windows-COM-ComPlus-Runtime" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<RemoteAccessEnabled>0</RemoteAccessEnabled>
+		</component>
+		<component name="Microsoft-Windows-COM-ComPlus-Runtime" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<RemoteAccessEnabled>0</RemoteAccessEnabled>
+		</component>
+		<component name="Microsoft-Windows-COM-DTC-Runtime" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<Start>2</Start>
+		</component>
+		<component name="Microsoft-Windows-COM-DTC-Runtime" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<Start>2</Start>
+		</component>
+		<component name="Microsoft-Windows-DiagnosticInfrastructure-Server" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<DelayedAutoStart>1</DelayedAutoStart>
+		</component>
+		<component name="Microsoft-Windows-DiagnosticInfrastructure-Server" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<DelayedAutoStart>1</DelayedAutoStart>
+		</component>
+		<component name="Microsoft-Windows-DiagnosticInfrastructure-Settings" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ClockType>1</ClockType>
+			<EnableKernelFlags>0723000000000000000000000000000000000000000000000000000000000000</EnableKernelFlags>
+			<LogFileMode>268436608</LogFileMode>
+			<Start>0</Start>
+			<DiaglogMaximumBuffers>256</DiaglogMaximumBuffers>
+		</component>
+		<component name="Microsoft-Windows-DiagnosticInfrastructure-Settings" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ClockType>1</ClockType>
+			<EnableKernelFlags>0723000000000000000000000000000000000000000000000000000000000000</EnableKernelFlags>
+			<LogFileMode>268436608</LogFileMode>
+			<Start>0</Start>
+			<DiaglogMaximumBuffers>256</DiaglogMaximumBuffers>
+		</component>
+		<component name="Microsoft-Windows-explorer" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ATBothDefaultValue>1</ATBothDefaultValue>
+			<ATHideDefaultValue>1</ATHideDefaultValue>
+			<ATMenuDefaultValue>1</ATMenuDefaultValue>
+			<CPHideDefaultValue>2</CPHideDefaultValue>
+			<CPMenuDefaultValue>2</CPMenuDefaultValue>
+			<CPOpenDefaultValue>2</CPOpenDefaultValue>
+			<GHideDefaultValue>0</GHideDefaultValue>
+			<GMenuDefaultValue>0</GMenuDefaultValue>
+			<GOpenDefaultValue>0</GOpenDefaultValue>
+			<MHideDefaultValue>0</MHideDefaultValue>
+			<MMenuDefaultValue>0</MMenuDefaultValue>
+			<MOpenDefaultValue>0</MOpenDefaultValue>
+			<PHideDefaultValue>0</PHideDefaultValue>
+			<PMenuDefaultValue>0</PMenuDefaultValue>
+			<POpenDefaultValue>0</POpenDefaultValue>
+			<RDefaultValue>1</RDefaultValue>
+			<UHideDefaultValue>0</UHideDefaultValue>
+			<UMenuDefaultValue>0</UMenuDefaultValue>
+			<UOpenDefaultValue>0</UOpenDefaultValue>
+		</component>
+		<component name="Microsoft-Windows-explorer" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ATBothDefaultValue>1</ATBothDefaultValue>
+			<ATHideDefaultValue>1</ATHideDefaultValue>
+			<ATMenuDefaultValue>1</ATMenuDefaultValue>
+			<CPHideDefaultValue>2</CPHideDefaultValue>
+			<CPMenuDefaultValue>2</CPMenuDefaultValue>
+			<CPOpenDefaultValue>2</CPOpenDefaultValue>
+			<GHideDefaultValue>0</GHideDefaultValue>
+			<GMenuDefaultValue>0</GMenuDefaultValue>
+			<GOpenDefaultValue>0</GOpenDefaultValue>
+			<MHideDefaultValue>0</MHideDefaultValue>
+			<MMenuDefaultValue>0</MMenuDefaultValue>
+			<MOpenDefaultValue>0</MOpenDefaultValue>
+			<PHideDefaultValue>0</PHideDefaultValue>
+			<PMenuDefaultValue>0</PMenuDefaultValue>
+			<POpenDefaultValue>0</POpenDefaultValue>
+			<RDefaultValue>1</RDefaultValue>
+			<UHideDefaultValue>0</UHideDefaultValue>
+			<UMenuDefaultValue>0</UMenuDefaultValue>
+			<UOpenDefaultValue>0</UOpenDefaultValue>
+		</component>
+		<component name="Microsoft-Windows-FileInfoMinifilter" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<Start>3</Start>
+			<ImagePath>\SystemRoot\System32\drivers\fileinfo.sys</ImagePath>
+		</component>
+		<component name="Microsoft-Windows-FileInfoMinifilter" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<Start>3</Start>
+			<ImagePath>\SystemRoot\System32\drivers\fileinfo.sys</ImagePath>
+		</component>
+		<component name="Microsoft-Windows-IE-ESC" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<HKLM_SMW_CV_IS_zones_3_180b>1</HKLM_SMW_CV_IS_zones_3_180b>
+		</component>
+		<component name="Microsoft-Windows-IE-ESC" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<HKLM_SMW_CV_IS_zones_3_180b>1</HKLM_SMW_CV_IS_zones_3_180b>
+		</component>
+		<component name="Microsoft-Windows-IE-InternetControlPanel" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<Animat_Default>no</Animat_Default>
+			<CacheFlush_Default>0</CacheFlush_Default>
+			<CachePages_Default>1</CachePages_Default>
+			<Secure_Default>1</Secure_Default>
+			<Sounds_Default>no</Sounds_Default>
+			<UseBHO_Default>no</UseBHO_Default>
+			<Immersive_Default>0</Immersive_Default>
+		</component>
+		<component name="Microsoft-Windows-IE-InternetControlPanel" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<Animat_Default>no</Animat_Default>
+			<CacheFlush_Default>0</CacheFlush_Default>
+			<CachePages_Default>1</CachePages_Default>
+			<Secure_Default>1</Secure_Default>
+			<Sounds_Default>no</Sounds_Default>
+			<UseBHO_Default>no</UseBHO_Default>
+			<Immersive_Default>0</Immersive_Default>
+		</component>
+		<component name="Microsoft-Windows-IE-PluggableHandlersAndSecurityZones" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<HKLM_SMW_CV_IS_zonemap_autodetect>0</HKLM_SMW_CV_IS_zonemap_autodetect>
+			<HKLM_SMW_CV_IS_zones_1_flags>67</HKLM_SMW_CV_IS_zones_1_flags>
+			<HKLM_SMW_CV_IS_zones_2_flags>67</HKLM_SMW_CV_IS_zones_2_flags>
+			<HKLM_SMW_CV_IS_zones_2_minlevel>66816</HKLM_SMW_CV_IS_zones_2_minlevel>
+			<HKLM_SMW_CV_IS_zones_1_2500>0</HKLM_SMW_CV_IS_zones_1_2500>
+			<HKLM_SMW_CV_IS_zones_3_1001>3</HKLM_SMW_CV_IS_zones_3_1001>
+			<HKLM_SMW_CV_IS_zones_3_1200>3</HKLM_SMW_CV_IS_zones_3_1200>
+			<HKLM_SMW_CV_IS_zones_3_1400>3</HKLM_SMW_CV_IS_zones_3_1400>
+			<HKLM_SMW_CV_IS_zones_3_1402>3</HKLM_SMW_CV_IS_zones_3_1402>
+			<HKLM_SMW_CV_IS_zones_3_1405>3</HKLM_SMW_CV_IS_zones_3_1405>
+			<HKLM_SMW_CV_IS_zones_3_1407>3</HKLM_SMW_CV_IS_zones_3_1407>
+			<HKLM_SMW_CV_IS_zones_3_1601>1</HKLM_SMW_CV_IS_zones_3_1601>
+			<HKLM_SMW_CV_IS_zones_3_1604>3</HKLM_SMW_CV_IS_zones_3_1604>
+			<HKLM_SMW_CV_IS_zones_3_1606>3</HKLM_SMW_CV_IS_zones_3_1606>
+			<HKLM_SMW_CV_IS_zones_3_1608>3</HKLM_SMW_CV_IS_zones_3_1608>
+			<HKLM_SMW_CV_IS_zones_3_1802>1</HKLM_SMW_CV_IS_zones_3_1802>
+			<HKLM_SMW_CV_IS_zones_3_1803>3</HKLM_SMW_CV_IS_zones_3_1803>
+			<HKLM_SMW_CV_IS_zones_3_1804>3</HKLM_SMW_CV_IS_zones_3_1804>
+			<HKLM_SMW_CV_IS_zones_3_1a00>65536</HKLM_SMW_CV_IS_zones_3_1a00>
+			<HKLM_SMW_CV_IS_zones_3_1a02>3</HKLM_SMW_CV_IS_zones_3_1a02>
+			<HKLM_SMW_CV_IS_zones_3_1a03>3</HKLM_SMW_CV_IS_zones_3_1a03>
+			<HKLM_SMW_CV_IS_zones_3_1a05>3</HKLM_SMW_CV_IS_zones_3_1a05>
+			<HKLM_SMW_CV_IS_zones_3_1a06>3</HKLM_SMW_CV_IS_zones_3_1a06>
+			<HKLM_SMW_CV_IS_zones_3_1a10>3</HKLM_SMW_CV_IS_zones_3_1a10>
+			<HKLM_SMW_CV_IS_zones_3_1c00>0</HKLM_SMW_CV_IS_zones_3_1c00>
+			<HKLM_SMW_CV_IS_zones_3_2000>3</HKLM_SMW_CV_IS_zones_3_2000>
+			<HKLM_SMW_CV_IS_zones_3_2100>3</HKLM_SMW_CV_IS_zones_3_2100>
+			<HKLM_SMW_CV_IS_zones_3_2101>3</HKLM_SMW_CV_IS_zones_3_2101>
+			<HKLM_SMW_CV_IS_zones_3_2106>3</HKLM_SMW_CV_IS_zones_3_2106>
+			<HKLM_SMW_CV_IS_zones_3_2300>3</HKLM_SMW_CV_IS_zones_3_2300>
+			<HKLM_SMW_CV_IS_zones_3_2400>3</HKLM_SMW_CV_IS_zones_3_2400>
+			<HKLM_SMW_CV_IS_zones_3_2401>3</HKLM_SMW_CV_IS_zones_3_2401>
+			<HKLM_SMW_CV_IS_zones_3_2402>3</HKLM_SMW_CV_IS_zones_3_2402>
+			<HKLM_SMW_CV_IS_zones_3_2600>3</HKLM_SMW_CV_IS_zones_3_2600>
+			<HKLM_SMW_CV_IS_zones_3_2701>3</HKLM_SMW_CV_IS_zones_3_2701>
+			<HKLM_SMW_CV_IS_zones_3_2704>3</HKLM_SMW_CV_IS_zones_3_2704>
+			<HKLM_SMW_CV_IS_zones_3_currentlevel>73728</HKLM_SMW_CV_IS_zones_3_currentlevel>
+			<HKLM_SMW_CV_IS_zones_3_minlevel>73728</HKLM_SMW_CV_IS_zones_3_minlevel>
+			<HKLM_SMW_CV_IS_zones_3_recommendedlevel>73728</HKLM_SMW_CV_IS_zones_3_recommendedlevel>
+		</component>
+		<component name="Microsoft-Windows-IE-PluggableHandlersAndSecurityZones" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<HKLM_SMW_CV_IS_zonemap_autodetect>0</HKLM_SMW_CV_IS_zonemap_autodetect>
+			<HKLM_SMW_CV_IS_zones_1_flags>67</HKLM_SMW_CV_IS_zones_1_flags>
+			<HKLM_SMW_CV_IS_zones_2_flags>67</HKLM_SMW_CV_IS_zones_2_flags>
+			<HKLM_SMW_CV_IS_zones_2_minlevel>66816</HKLM_SMW_CV_IS_zones_2_minlevel>
+			<HKLM_SMW_CV_IS_zones_1_2500>0</HKLM_SMW_CV_IS_zones_1_2500>
+			<HKLM_SMW_CV_IS_zones_3_1001>3</HKLM_SMW_CV_IS_zones_3_1001>
+			<HKLM_SMW_CV_IS_zones_3_1200>3</HKLM_SMW_CV_IS_zones_3_1200>
+			<HKLM_SMW_CV_IS_zones_3_1400>3</HKLM_SMW_CV_IS_zones_3_1400>
+			<HKLM_SMW_CV_IS_zones_3_1402>3</HKLM_SMW_CV_IS_zones_3_1402>
+			<HKLM_SMW_CV_IS_zones_3_1405>3</HKLM_SMW_CV_IS_zones_3_1405>
+			<HKLM_SMW_CV_IS_zones_3_1407>3</HKLM_SMW_CV_IS_zones_3_1407>
+			<HKLM_SMW_CV_IS_zones_3_1601>1</HKLM_SMW_CV_IS_zones_3_1601>
+			<HKLM_SMW_CV_IS_zones_3_1604>3</HKLM_SMW_CV_IS_zones_3_1604>
+			<HKLM_SMW_CV_IS_zones_3_1606>3</HKLM_SMW_CV_IS_zones_3_1606>
+			<HKLM_SMW_CV_IS_zones_3_1608>3</HKLM_SMW_CV_IS_zones_3_1608>
+			<HKLM_SMW_CV_IS_zones_3_1802>1</HKLM_SMW_CV_IS_zones_3_1802>
+			<HKLM_SMW_CV_IS_zones_3_1803>3</HKLM_SMW_CV_IS_zones_3_1803>
+			<HKLM_SMW_CV_IS_zones_3_1804>3</HKLM_SMW_CV_IS_zones_3_1804>
+			<HKLM_SMW_CV_IS_zones_3_1a00>65536</HKLM_SMW_CV_IS_zones_3_1a00>
+			<HKLM_SMW_CV_IS_zones_3_1a02>3</HKLM_SMW_CV_IS_zones_3_1a02>
+			<HKLM_SMW_CV_IS_zones_3_1a03>3</HKLM_SMW_CV_IS_zones_3_1a03>
+			<HKLM_SMW_CV_IS_zones_3_1a05>3</HKLM_SMW_CV_IS_zones_3_1a05>
+			<HKLM_SMW_CV_IS_zones_3_1a06>3</HKLM_SMW_CV_IS_zones_3_1a06>
+			<HKLM_SMW_CV_IS_zones_3_1a10>3</HKLM_SMW_CV_IS_zones_3_1a10>
+			<HKLM_SMW_CV_IS_zones_3_1c00>0</HKLM_SMW_CV_IS_zones_3_1c00>
+			<HKLM_SMW_CV_IS_zones_3_2000>3</HKLM_SMW_CV_IS_zones_3_2000>
+			<HKLM_SMW_CV_IS_zones_3_2100>3</HKLM_SMW_CV_IS_zones_3_2100>
+			<HKLM_SMW_CV_IS_zones_3_2101>3</HKLM_SMW_CV_IS_zones_3_2101>
+			<HKLM_SMW_CV_IS_zones_3_2106>3</HKLM_SMW_CV_IS_zones_3_2106>
+			<HKLM_SMW_CV_IS_zones_3_2300>3</HKLM_SMW_CV_IS_zones_3_2300>
+			<HKLM_SMW_CV_IS_zones_3_2400>3</HKLM_SMW_CV_IS_zones_3_2400>
+			<HKLM_SMW_CV_IS_zones_3_2401>3</HKLM_SMW_CV_IS_zones_3_2401>
+			<HKLM_SMW_CV_IS_zones_3_2402>3</HKLM_SMW_CV_IS_zones_3_2402>
+			<HKLM_SMW_CV_IS_zones_3_2600>3</HKLM_SMW_CV_IS_zones_3_2600>
+			<HKLM_SMW_CV_IS_zones_3_2701>3</HKLM_SMW_CV_IS_zones_3_2701>
+			<HKLM_SMW_CV_IS_zones_3_2704>3</HKLM_SMW_CV_IS_zones_3_2704>
+			<HKLM_SMW_CV_IS_zones_3_currentlevel>73728</HKLM_SMW_CV_IS_zones_3_currentlevel>
+			<HKLM_SMW_CV_IS_zones_3_minlevel>73728</HKLM_SMW_CV_IS_zones_3_minlevel>
+			<HKLM_SMW_CV_IS_zones_3_recommendedlevel>73728</HKLM_SMW_CV_IS_zones_3_recommendedlevel>
+		</component>
+		<component name="Microsoft-Windows-OfflineFiles-Core" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<DriverStartType>4</DriverStartType>
+		</component>
+		<component name="Microsoft-Windows-OfflineFiles-Core" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<DriverStartType>4</DriverStartType>
+		</component>
+		<component name="Microsoft-Windows-OfflineFiles-Service" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ServiceStart>4</ServiceStart>
+		</component>
+		<component name="Microsoft-Windows-OfflineFiles-Service" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ServiceStart>4</ServiceStart>
+		</component>
+		<component name="Microsoft-Windows-PartitionManager" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<SanPolicy>2</SanPolicy>
+		</component>
+		<component name="Microsoft-Windows-PartitionManager" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<SanPolicy>2</SanPolicy>
+		</component>
+		<component name="Microsoft-Windows-Printing-Spooler-Networkclient" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<AddPrinterDrivers>1</AddPrinterDrivers>
+		</component>
+		<component name="Microsoft-Windows-Printing-Spooler-Networkclient" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<AddPrinterDrivers>1</AddPrinterDrivers>
+		</component>
+		<component name="Microsoft-Windows-RemoteRegistry-Service" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<RemoteRegistryStartType>2</RemoteRegistryStartType>
+		</component>
+		<component name="Microsoft-Windows-RemoteRegistry-Service" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<RemoteRegistryStartType>2</RemoteRegistryStartType>
+		</component>
+		<component name="Microsoft-Windows-Services-ServiceController-MinWin" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<List>System&amp;#x20;Reserved EMS WdfLoadGroup Boot&amp;#x20;Bus&amp;#x20;Extender System&amp;#x20;Bus&amp;#x20;Extender SCSI&amp;#x20;miniport Port Primary&amp;#x20;Disk SCSI&amp;#x20;Class SCSI&amp;#x20;CDROM&amp;#x20;Class FSFilter&amp;#x20;Infrastructure FSFilter&amp;#x20;System FSFilter&amp;#x20;Bottom FSFilter&amp;#x20;Copy&amp;#x20;Protection FSFilter&amp;#x20;Security&amp;#x20;Enhancer FSFilter&amp;#x20;Open&amp;#x20;File FSFilter&amp;#x20;Physical&amp;#x20;Quota&amp;#x20;Management FSFilter&amp;#x20;Virtualization FSFilter&amp;#x20;Encryption FSFilter&amp;#x20;Compression FSFilter&amp;#x20;Imaging FSFilter&amp;#x20;HSM FSFilter&amp;#x20;Cluster&amp;#x20;File&amp;#x20;System FSFilter&amp;#x20;System&amp;#x20;Recovery FSFilter&amp;#x20;Quota&amp;#x20;Management FSFilter&amp;#x20;Content&amp;#x20;Screener FSFilter&amp;#x20;Continuous&amp;#x20;Backup FSFilter&amp;#x20;Replication FSFilter&amp;#x20;Anti-Virus FSFilter&amp;#x20;Undelete FSFilter&amp;#x20;Activity&amp;#x20;Monitor FSFilter&amp;#x20;Top Filter Boot&amp;#x20;File&amp;#x20;System Base Pointer&amp;#x20;Port Keyboard&amp;#x20;Port Pointer&amp;#x20;Class Keyboard&amp;#x20;Class Video&amp;#x20;Init Video Video&amp;#x20;Save File&amp;#x20;System Streams&amp;#x20;Drivers NDIS&amp;#x20;Wrapper COM&amp;#x20;Infrastructure Event&amp;#x20;Log ProfSvc_Group UIGroup PlugPlay Cryptography PNP_TDI NDIS TDI iSCSI NetBIOSGroup ShellSvcGroup SchedulerGroup AudioGroup SmartCardGroup NetworkProvider MS_WindowsRemoteValidation MS_WindowsLocalValidation SpoolerGroup NetDDEGroup Parallel&amp;#x20;arbitrator Extended&amp;#x20;Base PCI&amp;#x20;Configuration MS&amp;#x20;Transactions</List>
+		</component>
+		<component name="Microsoft-Windows-Services-ServiceController-MinWin" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<List>System&amp;#x20;Reserved EMS WdfLoadGroup Boot&amp;#x20;Bus&amp;#x20;Extender System&amp;#x20;Bus&amp;#x20;Extender SCSI&amp;#x20;miniport Port Primary&amp;#x20;Disk SCSI&amp;#x20;Class SCSI&amp;#x20;CDROM&amp;#x20;Class FSFilter&amp;#x20;Infrastructure FSFilter&amp;#x20;System FSFilter&amp;#x20;Bottom FSFilter&amp;#x20;Copy&amp;#x20;Protection FSFilter&amp;#x20;Security&amp;#x20;Enhancer FSFilter&amp;#x20;Open&amp;#x20;File FSFilter&amp;#x20;Physical&amp;#x20;Quota&amp;#x20;Management FSFilter&amp;#x20;Virtualization FSFilter&amp;#x20;Encryption FSFilter&amp;#x20;Compression FSFilter&amp;#x20;Imaging FSFilter&amp;#x20;HSM FSFilter&amp;#x20;Cluster&amp;#x20;File&amp;#x20;System FSFilter&amp;#x20;System&amp;#x20;Recovery FSFilter&amp;#x20;Quota&amp;#x20;Management FSFilter&amp;#x20;Content&amp;#x20;Screener FSFilter&amp;#x20;Continuous&amp;#x20;Backup FSFilter&amp;#x20;Replication FSFilter&amp;#x20;Anti-Virus FSFilter&amp;#x20;Undelete FSFilter&amp;#x20;Activity&amp;#x20;Monitor FSFilter&amp;#x20;Top Filter Boot&amp;#x20;File&amp;#x20;System Base Pointer&amp;#x20;Port Keyboard&amp;#x20;Port Pointer&amp;#x20;Class Keyboard&amp;#x20;Class Video&amp;#x20;Init Video Video&amp;#x20;Save File&amp;#x20;System Streams&amp;#x20;Drivers NDIS&amp;#x20;Wrapper COM&amp;#x20;Infrastructure Event&amp;#x20;Log ProfSvc_Group UIGroup PlugPlay Cryptography PNP_TDI NDIS TDI iSCSI NetBIOSGroup ShellSvcGroup SchedulerGroup AudioGroup SmartCardGroup NetworkProvider MS_WindowsRemoteValidation MS_WindowsLocalValidation SpoolerGroup NetDDEGroup Parallel&amp;#x20;arbitrator Extended&amp;#x20;Base PCI&amp;#x20;Configuration MS&amp;#x20;Transactions</List>
+		</component>
+		<component name="Microsoft-Windows-shell32" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<HKEY_LOCAL_MACHINE_SOFTWARE_Microsoft_Windows_CurrentVersion_Explorer_MyComputer_BackupPath_defaultValue>%SystemRoot%\system32\wbadmin.msc</HKEY_LOCAL_MACHINE_SOFTWARE_Microsoft_Windows_CurrentVersion_Explorer_MyComputer_BackupPath_defaultValue>
+		</component>
+		<component name="Microsoft-Windows-shell32" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<HKEY_LOCAL_MACHINE_SOFTWARE_Microsoft_Windows_CurrentVersion_Explorer_MyComputer_BackupPath_defaultValue>%SystemRoot%\system32\wbadmin.msc</HKEY_LOCAL_MACHINE_SOFTWARE_Microsoft_Windows_CurrentVersion_Explorer_MyComputer_BackupPath_defaultValue>
+		</component>
+		<component name="Microsoft-Windows-Smss-BootExecute" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<BootExecute>autocheck&amp;#x20;autochk&amp;#x20;/q&amp;#x20;/v&amp;#x20;*</BootExecute>
+		</component>
+		<component name="Microsoft-Windows-Smss-BootExecute" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<BootExecute>autocheck&amp;#x20;autochk&amp;#x20;/q&amp;#x20;/v&amp;#x20;*</BootExecute>
+		</component>
+		<component name="Microsoft-Windows-Speech-UserExperience-Common" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<SapiCplCategory>-1,2</SapiCplCategory>
+		</component>
+		<component name="Microsoft-Windows-Speech-UserExperience-Common" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<SapiCplCategory>-1,2</SapiCplCategory>
+		</component>
+		<component name="Microsoft-Windows-TerminalServices-LocalSessionManager" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<AllowRemoteRPC>true</AllowRemoteRPC>
+		</component>
+		<component name="Microsoft-Windows-TerminalServices-LocalSessionManager" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<AllowRemoteRPC>true</AllowRemoteRPC>
+		</component>
+		<component name="Microsoft-Windows-TerminalServices-RDP-WinStationExtensions" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ColorDepth>3</ColorDepth>
+		</component>
+		<component name="Microsoft-Windows-TerminalServices-RDP-WinStationExtensions" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ColorDepth>3</ColorDepth>
+		</component>
+		<component name="Microsoft-Windows-TerminalServices-RemoteConnectionManager" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ImagePath>%SystemRoot%\System32\svchost.exe -k termsvcs</ImagePath>
+			<PerSessionTempDir>true</PerSessionTempDir>
+		</component>
+		<component name="Microsoft-Windows-TerminalServices-RemoteConnectionManager" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ImagePath>%SystemRoot%\System32\svchost.exe -k termsvcs</ImagePath>
+			<PerSessionTempDir>true</PerSessionTempDir>
+		</component>
+		<component name="Microsoft-Windows-Web-Services-for-Management-Core" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ServiceStartType>2</ServiceStartType>
+			<DelayedAutoStart>0</DelayedAutoStart>
+		</component>
+		<component name="Microsoft-Windows-Web-Services-for-Management-Core" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<ServiceStartType>2</ServiceStartType>
+			<DelayedAutoStart>0</DelayedAutoStart>
+		</component>
+		<component name="Microsoft-Windows-Win32k-Settings" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<Background>102 111 116</Background>
+		</component>
+		<component name="Microsoft-Windows-Win32k-Settings" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<Background>102 111 116</Background>
+		</component>
+		<component name="Networking-MPSSVC-Svc" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<DisableStatefulFTP>true</DisableStatefulFTP>
+			<DisableStatefulFTP_Default>true</DisableStatefulFTP_Default>
+			<DisableStatefulPPTP>true</DisableStatefulPPTP>
+			<DisableStatefulPPTP_Default>true</DisableStatefulPPTP_Default>
+			<DomainProfile_DisableNotifications>true</DomainProfile_DisableNotifications>
+			<DomainProfile_DisableNotifications_Default>true</DomainProfile_DisableNotifications_Default>
+			<PrivateProfile_DisableNotifications>true</PrivateProfile_DisableNotifications>
+			<PrivateProfile_DisableNotifications_Default>true</PrivateProfile_DisableNotifications_Default>
+			<PublicProfile_DisableNotifications>true</PublicProfile_DisableNotifications>
+			<PublicProfile_DisableNotifications_Default>true</PublicProfile_DisableNotifications_Default>
+		</component>
+		<component name="Networking-MPSSVC-Svc" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<DisableStatefulFTP>true</DisableStatefulFTP>
+			<DisableStatefulFTP_Default>true</DisableStatefulFTP_Default>
+			<DisableStatefulPPTP>true</DisableStatefulPPTP>
+			<DisableStatefulPPTP_Default>true</DisableStatefulPPTP_Default>
+			<DomainProfile_DisableNotifications>true</DomainProfile_DisableNotifications>
+			<DomainProfile_DisableNotifications_Default>true</DomainProfile_DisableNotifications_Default>
+			<PrivateProfile_DisableNotifications>true</PrivateProfile_DisableNotifications>
+			<PrivateProfile_DisableNotifications_Default>true</PrivateProfile_DisableNotifications_Default>
+			<PublicProfile_DisableNotifications>true</PublicProfile_DisableNotifications>
+			<PublicProfile_DisableNotifications_Default>true</PublicProfile_DisableNotifications_Default>
+		</component>
+	</settings>
+</unattend>

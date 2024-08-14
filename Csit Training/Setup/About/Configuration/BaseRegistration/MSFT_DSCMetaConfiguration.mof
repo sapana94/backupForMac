@@ -1,0 +1,24 @@
+[ClassVersion("1.0.0"), FriendlyName("LocalConfigurationManager")] 
+class MSFT_DSCMetaConfiguration
+{
+  uint32 ConfigurationModeFrequencyMins;
+  boolean RebootNodeIfNeeded = FALSE;
+  [ValueMap {"ApplyOnly","ApplyAndMonitor","ApplyAndAutoCorrect"}, Values {"ApplyOnly","ApplyAndMonitor","ApplyAndAutoCorrect"}]
+  string ConfigurationMode;
+  [ValueMap {"ContinueConfiguration","StopConfiguration"}, Values {"ContinueConfiguration","StopConfiguration"}]
+  string ActionAfterReboot;
+  [EmbeddedInstance("MSFT_Credential")] string Credential;
+  [ValueMap {"Push","Pull"}, Values {"Push","Pull"}]
+  string RefreshMode;
+  string CertificateID;
+  string ConfigurationID;
+  string DownloadManagerName;
+  [EmbeddedInstance("MSFT_KeyValuePair")] string DownloadManagerCustomData[];
+  uint32 RefreshFrequencyMins;
+  boolean AllowModuleOverwrite;
+  [ValueMap {"None","ForceModuleImport", "All"}, Values {"None","ForceModuleImport", "All"}]
+  string DebugMode[];
+  [Read] string LCMVersion;
+  [Read] string LCMCompatibleVersions[];
+  [Read,ValueMap{"Idle", "Busy", "PendingReboot", "PendingConfiguration"},Values{"Idle", "Busy", "PendingReboot", "PendingConfiguration"}] string LCMState;
+};

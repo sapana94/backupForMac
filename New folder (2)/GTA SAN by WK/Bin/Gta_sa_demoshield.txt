@@ -1,0 +1,673 @@
+[Gta_sa_demoshield.dbd]
+DEU=
+ENU=
+ESP=
+FRA=
+ITA=
+
+[DEU.Global]
+Caption=Grand Theft Auto San Andreas DVD Browser
+Ok=OK
+Cancel=Abbrechen
+Browse=Durchsuchen...
+
+[DEU.Launch Application]
+Caption=DemoShield
+Insert Disk Message=The '%s' application could not be located.
+Insert Disk Instructions=Please insert the next disk and press OK to continue.
+Browse Message=The '%s' application could not be located.
+Browse Instructions=Please browse for the application you want to launch.
+
+[DEU.Main menu.QB Install Direct X]
+Type=3
+Data=D I R E C T X   9 . 0  C  I N S T A L L I E R E N
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[DEU.Main menu.QB Browse Contents]
+Type=3
+Data=D V D   D U R C H S U C H E N
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[DEU.Main menu.QB Install GTA: San Andreas]
+Type=3
+Data=GTA: SAN ANDREAS INSTALLIEREN
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[DEU.Main menu.QB Contact]
+Type=3
+Data=L I N K S
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[DEU.Main menu.QB View Readme]
+Type=3
+Data=R E A D M E   L E S E N
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[DEU.Main menu.QB Uninstall]
+Type=3
+Data=D E I N S T A L L I E R E N
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[DEU.Main menu.QB Exit]
+Type=2
+Data=BEENDEN
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=9
+
+[DEU.Main menu.QB Play GTA: San Andreas]
+Type=3
+Data=GTA San Andreas spielen
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[DEU.Contact us.T Left Side]
+Type=2
+Data=Offizielle Website:\n\nEntwickler:\n\nPublisher:\n\n
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[DEU.Contact us.QB Main Menu]
+Type=3
+Data=H A U P T M E N Ü
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[DEU.Contact us.T Right Side]
+Type=2
+Data=\n\nRockstar North\n\n\n\n
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[DEU.Contact us.Quick Link 2]
+Type=2
+Data=www.rockstarnorth.com
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[DEU.Contact us.Rockstar Games]
+Type=2
+Data=Rockstar Games
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[DEU.Contact us.Quick Link 3]
+Type=2
+Data=www.rockstargames.com
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[DEU.Contact us.Quick Link 1]
+Type=2
+Data=www.rockstargames.com/sanandreas
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[DEU.Contact us.QB Exit]
+Type=2
+Data=BEENDEN
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=9
+
+[ENU.Global]
+Caption=Grand Theft Auto San Andreas DVD Browser
+Ok=OK
+Cancel=Cancel
+Browse=Browse...
+
+[ENU.Launch Application]
+Caption=DemoShield
+Insert Disk Message=The '%s' application could not be located.
+Insert Disk Instructions=Please insert the next disk and press OK to continue.
+Browse Message=The '%s' application could not be located.
+Browse Instructions=Please browse for the application you want to launch.
+
+[ENU.Main menu.QB Install Direct X]
+Type=3
+Data=I N S T A L L   D I R E C T X   9 . 0  C
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ENU.Main menu.QB Browse Contents]
+Type=3
+Data=B R O W S E   DVD   C O N T E N T S
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ENU.Main menu.QB Install GTA: San Andreas]
+Type=3
+Data=I N S T A L L   GTA: SAN ANDREAS
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ENU.Main menu.QB Contact]
+Type=3
+Data=L I N K S
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ENU.Main menu.QB View Readme]
+Type=3
+Data=V I E W   R E A D   M E
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ENU.Main menu.QB Uninstall]
+Type=3
+Data=U N I N S T A L L
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ENU.Main menu.QB Exit]
+Type=2
+Data=E X I T
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=9
+
+[ENU.Main menu.QB Play GTA: San Andreas]
+Type=3
+Data=Play GTA: SAN ANDREAS
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ENU.Contact us.T Left Side]
+Type=2
+Data=Official website:\n\nDeveloped by:\n\nPublished by:\n\n
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ENU.Contact us.QB Main Menu]
+Type=3
+Data=M A I N   M E N U
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ENU.Contact us.T Right Side]
+Type=2
+Data=\n\nRockstar North\n\n\n\n
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ENU.Contact us.Quick Link 2]
+Type=2
+Data=www.rockstarnorth.com
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ENU.Contact us.Rockstar Games]
+Type=2
+Data=Rockstar Games
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ENU.Contact us.Quick Link 3]
+Type=2
+Data=www.rockstargames.com
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ENU.Contact us.Quick Link 1]
+Type=2
+Data=www.rockstargames.com/sanandreas
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ENU.Contact us.QB Exit]
+Type=2
+Data=E X I T
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=9
+
+[ESP.Global]
+Caption=Navegador de DVD de Grand Theft Auto San Andreas
+Ok=Aceptar
+Cancel=Cancelar
+Browse=Navegar…
+
+[ESP.Launch Application]
+Caption=DemoShield
+Insert Disk Message=The '%s' application could not be located.
+Insert Disk Instructions=Please insert the next disk and press OK to continue.
+Browse Message=The '%s' application could not be located.
+Browse Instructions=Please browse for the application you want to launch.
+
+[ESP.Main menu.QB Install Direct X]
+Type=3
+Data=INSTALAR  DIRECTX  9.0C
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ESP.Main menu.QB Browse Contents]
+Type=3
+Data=EXPLORAR CONTENIDOS DEL DVD
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ESP.Main menu.QB Install GTA: San Andreas]
+Type=3
+Data=INSTALAR GTA: SAN ANDREAS
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ESP.Main menu.QB Contact]
+Type=3
+Data=VÍNCULOS
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ESP.Main menu.QB View Readme]
+Type=3
+Data=VER EL README
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ESP.Main menu.QB Uninstall]
+Type=3
+Data=DESINSTALAR
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ESP.Main menu.QB Exit]
+Type=2
+Data=SALIR
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=9
+
+[ESP.Main menu.QB Play GTA: San Andreas]
+Type=3
+Data=Jugar a GTA San Andreas
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ESP.Contact us.T Left Side]
+Type=2
+Data=Sitio Web oficial:\n\nDesarrollado por:\n\nPublicado por:\n\n
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ESP.Contact us.QB Main Menu]
+Type=3
+Data=MENÚ PRINCIPAL
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ESP.Contact us.T Right Side]
+Type=2
+Data=\n\nRockstar North\n\n\n\n
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ESP.Contact us.Quick Link 2]
+Type=2
+Data=www.rockstarnorth.com
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ESP.Contact us.Rockstar Games]
+Type=2
+Data=Rockstar Games
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ESP.Contact us.Quick Link 3]
+Type=2
+Data=www.rockstargames.com
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ESP.Contact us.Quick Link 1]
+Type=2
+Data=www.rockstargames.com/sanandreas
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ESP.Contact us.QB Exit]
+Type=2
+Data=SALIR
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=9
+
+[FRA.Global]
+Caption=Explorateur DVD Grand Theft Auto : San Andreas
+Ok=OK
+Cancel=Annuler
+Browse=Parcourir...
+
+[FRA.Launch Application]
+Caption=DemoShield
+Insert Disk Message=The '%s' application could not be located.
+Insert Disk Instructions=Please insert the next disk and press OK to continue.
+Browse Message=The '%s' application could not be located.
+Browse Instructions=Please browse for the application you want to launch.
+
+[FRA.Main menu.QB Install Direct X]
+Type=3
+Data=I N S T A L L E R   D I R E C T X   9 . 0  C
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[FRA.Main menu.QB Browse Contents]
+Type=3
+Data=P A R C O U R I R   L E  D V D
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[FRA.Main menu.QB Install GTA: San Andreas]
+Type=3
+Data=I N S T A L L E R  GTA: SAN ANDREAS
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[FRA.Main menu.QB Contact]
+Type=3
+Data=L I E N S
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[FRA.Main menu.QB View Readme]
+Type=3
+Data=V O I R  L I S E Z M O I 
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[FRA.Main menu.QB Uninstall]
+Type=3
+Data=D E S I N S T A L L E R
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[FRA.Main menu.QB Exit]
+Type=2
+Data=QUITTER
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=9
+
+[FRA.Main menu.QB Play GTA: San Andreas]
+Type=3
+Data=Jouer à GTA San Andreas
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[FRA.Contact us.T Left Side]
+Type=2
+Data=Site Officiel:\n\nDéveloppé par:\n\nDistribué par:\n\n
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[FRA.Contact us.QB Main Menu]
+Type=3
+Data=MENU PRINCIPAL
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[FRA.Contact us.T Right Side]
+Type=2
+Data=\n\nRockstar North\n\n\n\n
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[FRA.Contact us.Quick Link 2]
+Type=2
+Data=www.rockstarnorth.com
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[FRA.Contact us.Rockstar Games]
+Type=2
+Data=Rockstar Games
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[FRA.Contact us.Quick Link 3]
+Type=2
+Data=www.rockstargames.com
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[FRA.Contact us.Quick Link 1]
+Type=2
+Data=www.rockstargames.com/sanandreas
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[FRA.Contact us.QB Exit]
+Type=2
+Data=QUITTER
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=9
+[ITA.Global]
+Caption=Navigatore del DVD GTA: San Andreas
+Ok=OK
+Cancel=Annulla
+Browse=Esplora…
+
+[ITA.Launch Application]
+Caption=DemoShield
+Insert Disk Message=The '%s' application could not be located.
+Insert Disk Instructions=Please insert the next disk and press OK to continue.
+Browse Message=The '%s' application could not be located.
+Browse Instructions=Please browse for the application you want to launch.
+
+[ITA.Main menu.QB Install Direct X]
+Type=3
+Data=INSTALLA  D I R E C T X   9 . 0  C
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ITA.Main menu.QB Browse Contents]
+Type=3
+Data=ESPLORA IL DVD
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ITA.Main menu.QB Install GTA: San Andreas]
+Type=3
+Data=INSTALLA GTA: SAN ANDREAS
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ITA.Main menu.QB Contact]
+Type=3
+Data=LINK
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ITA.Main menu.QB View Readme]
+Type=3
+Data=LEGGI IL README 
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ITA.Main menu.QB Uninstall]
+Type=3
+Data=RIMUOVI
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ITA.Main menu.QB Exit]
+Type=2
+Data=ESCI
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=9
+
+[ITA.Main menu.QB Play GTA: San Andreas]
+Type=3
+Data=Gioca a GTA San Andreas
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ITA.Contact us.T Left Side]
+Type=2
+Data=Sito ufficiale:\n\nSviluppato da:\n\nPubblicato da:\n\n
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ITA.Contact us.QB Main Menu]
+Type=3
+Data=MENU PRINCIPALE
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=8
+
+[ITA.Contact us.T Right Side]
+Type=2
+Data=\n\nRockstar North\n\n\n\n
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ITA.Contact us.Quick Link 2]
+Type=2
+Data=www.rockstarnorth.com
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ITA.Contact us.Rockstar Games]
+Type=2
+Data=Rockstar Games
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ITA.Contact us.Quick Link 3]
+Type=2
+Data=www.rockstargames.com
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ITA.Contact us.Quick Link 1]
+Type=2
+Data=www.rockstargames.com/sanandreas
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=10
+
+[ITA.Contact us.QB Exit]
+Type=2
+Data=ESCI
+Caption=
+Tooltip=
+Font=BankGothicBT-Medium
+Point Size=9
+
+
+

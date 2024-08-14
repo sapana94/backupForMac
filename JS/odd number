@@ -1,0 +1,12 @@
+lxi h,0002H
+mvi a,00H
+mvi b,02H
+mvi c,0AH
+mov m,a
+dcr c
+even: inx H
+add b
+mov m,a
+dcr c
+jnz even
+hlt

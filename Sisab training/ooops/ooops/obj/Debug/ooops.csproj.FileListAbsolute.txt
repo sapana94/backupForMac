@@ -1,0 +1,7 @@
+C:\Users\admin\OneDrive\Desktop\Sisab training\ooops\ooops\bin\Debug\ooops.exe.config
+C:\Users\admin\OneDrive\Desktop\Sisab training\ooops\ooops\bin\Debug\ooops.exe
+C:\Users\admin\OneDrive\Desktop\Sisab training\ooops\ooops\bin\Debug\ooops.pdb
+C:\Users\admin\OneDrive\Desktop\Sisab training\ooops\ooops\obj\Debug\ooops.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Sisab training\ooops\ooops\obj\Debug\ooops.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Sisab training\ooops\ooops\obj\Debug\ooops.exe
+C:\Users\admin\OneDrive\Desktop\Sisab training\ooops\ooops\obj\Debug\ooops.pdb
