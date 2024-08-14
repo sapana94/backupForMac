@@ -1,0 +1,68 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    border:1px solid red;
+    background-color:white;
+    /*vh is viewoint height*/
+    height:100vh;
+    width:100vw;
+}
+.container{
+    width:400px;
+    height:500px;
+    /* border:1px solid black; */
+    margin:auto;
+    margin-top:50px;
+}
+.heading{
+    color:blue;
+    font-size:40px;
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+/* .b{
+    border:1px solid red;
+} */
+.p{
+    font-size:1.3rem;
+    font-weight:600;
+    width:80%;margin:auto;
+    text-align:center;
+}
+form{
+    border:1px solid blue;
+    background-color:white;
+    height:60%;
+    padding:14px;
+    border-radius:5px;
+}
+input{
+    padding:12px 7px 12px 7px;
+    width:100%;
+    border-radius:6px;
+    letter-spacing:2px;
+    margin-top:14px;
+}
+#btn{
+    background-color:rgba(0, 0, 255, 0.776);
+    color:white;
+    font-size:17px;
+    font-weight:bold;
+    border:none;
+}
+.fpw{
+    text-align:center;
+    color:blue;
+    font-size:14px;
+    font-weight:50px;
+    border:1px solid red;
+    margin-top:20px;
+}
+.fpw:hover{
+    text-decoration:underline;
+}
+
+    
